@@ -50,6 +50,15 @@ export default function App() {
       description: "Witnessed the stunning cherry blossoms in full bloom across Tokyo's parks.",
       imageUrl: "https://images.unsplash.com/photo-1724325095172-71da0b904c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
       photos: 28
+    },
+    {
+      id: 5,
+      title: "Cherry Blossom Season",
+      location: "Tokyo, Japan",
+      date: "March 2024",
+      description: "Witnessed the stunning cherry blossoms in full bloom across Tokyo's parks.",
+      imageUrl: "https://images.unsplash.com/photo-1724325095172-71da0b904c8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      photos: 28
     }
   ]);
 
